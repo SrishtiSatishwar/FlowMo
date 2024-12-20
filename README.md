@@ -1,4 +1,4 @@
-FloMo \\
+FloMo \
 This project is a system that analyzes video footage from multiple cameras along different roads (leading from a source to a destination), calculates traffic levels using a contour-based scoring method, and visualizes traffic conditions on a map. This allows users to make informed decisions about the best route to take at a given time, given the source and destination. The user will xpick the desired “time of interest” on the dial, pick the source and destination and be presented with a map of color-coded paths from the source to the destination, and the ETA.
 
 --------------------------------------------------------------------
